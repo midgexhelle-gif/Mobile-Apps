@@ -1,0 +1,6 @@
+{
+  "name": "Brain Blitz - Puzzle Challenge",
+  "description": "Fast-paced brain training puzzle game featuring 15 categories, 200 verified puzzles, 100 levels, time attack, and daily challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
